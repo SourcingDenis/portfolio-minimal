@@ -2,23 +2,23 @@ const main = {
   name: 'Denys Dinkevych',
   mail: 'dinkevich.hr@gmail.com',
   img: 'https://organicthemes.com/demo/profile/files/2018/05/profile-pic.jpg',
-  role: ['Full Stack Developer'],
+  role: ['Sourcing Alchemist'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
       name: 'Home',
       iconName: 'logo-firefox',
-      link: 'https://sivanesh-s.github.io'
+      link: 'https://sourcingdenis.github.io/portfolio-minimal/'
     },
     {
       name: 'Github',
       iconName: 'logo-github',
-      link: 'https://github.com/sivanesh-s'
+      link: 'https://github.com/sourcingdenis'
     },
     {
       name: 'Linkedin',
       iconName: 'logo-linkedin',
-      link: 'https://www.linkedin.com/in/sivanesh-shanmugam/'
+      link: 'https://www.linkedin.com/in/sourcingdenis/'
     },
     {
       name: 'StackOverflow',
@@ -28,17 +28,12 @@ const main = {
     {
       name: 'Twitter',
       iconName: 'logo-twitter',
-      link: 'https://twitter.com/sivanesh_fiz'
-    },
-    {
-      name: 'npm',
-      iconName: 'logo-npm',
-      link: 'https://www.npmjs.com/~sivanesh_s'
+      link: 'https://twitter.com/sourcingdenis'
     },
     {
       name: 'Mail',
       iconName: 'mail-outline',
-      link: `mailto:${'yourmail@gmail.com'}?Subject=Hello%20again`
+      link: `mailto:${'dinkevich.hr@gmail.com'}?Subject=Hello%20again`
     }
   ],
   links: [
