@@ -1,6 +1,6 @@
 const main = {
-  name: 'Your Name',
-  mail: 'your.mail@gmail.com',
+  name: 'Denys Dinkevych',
+  mail: 'dinkevich.hr@gmail.com',
   img: 'https://organicthemes.com/demo/profile/files/2018/05/profile-pic.jpg',
   role: ['Full Stack Developer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
