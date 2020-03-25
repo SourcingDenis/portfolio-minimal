@@ -1,8 +1,8 @@
 const main = {
   name: 'Denys Dinkevych',
   mail: 'dinkevich.hr@gmail.com',
-  img: 'https://organicthemes.com/demo/profile/files/2018/05/profile-pic.jpg',
-  role: ['Sourcing Alchemist'],
+  img: 'https://drive.google.com/file/d/1StUMNhVmMhL3ca3AMB1SrJsz051r5Q9k/view?usp=sharing',
+  role: ['Sourcing Alchemist 🕵 OSINT Enthusiast'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
@@ -11,7 +11,7 @@ const main = {
       link: 'https://github.com/sourcingdenis/'
     },
     {
-      name: 'Linkedin',
+      name: 'LinkedIn',
       iconName: 'logo-linkedin',
       link: 'https://www.linkedin.com/in/sourcingdenis/'
     },
