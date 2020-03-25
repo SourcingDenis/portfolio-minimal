@@ -6,14 +6,9 @@ const main = {
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
-      name: 'Home',
-      iconName: 'logo-firefox',
-      link: 'https://sourcingdenis.github.io/portfolio-minimal/'
-    },
-    {
       name: 'Github',
       iconName: 'logo-github',
-      link: 'https://github.com/sourcingdenis'
+      link: 'https://github.com/sourcingdenis/'
     },
     {
       name: 'Linkedin',
@@ -23,12 +18,12 @@ const main = {
     {
       name: 'StackOverflow',
       iconName: 'logo-stackoverflow',
-      link: 'https://stackoverflow.com/users/6940525/sivanesh-s'
+      link: 'https://stackoverflow.com/users/7285491/denis-dinkevich'
     },
     {
       name: 'Twitter',
       iconName: 'logo-twitter',
-      link: 'https://twitter.com/sourcingdenis'
+      link: 'https://twitter.com/sourcingdenis/'
     },
     {
       name: 'Mail',
@@ -37,7 +32,7 @@ const main = {
     }
   ],
   links: [
-    { name: 'Projects', link: '#projects' },
-    { name: 'Blogs', link: '#blogs' }
+    { name: 'OSINT 🔎 STASH', link: 'https://twitter.com/OsintStash/' },
+    { name: 'Blogs', link: 'https://medium.com/@SourcingDenis/' }
   ]
 };
