@@ -16,9 +16,9 @@ const main = {
       link: 'https://www.linkedin.com/in/sourcingdenis/'
     },
     {
-      name: 'StackOverflow',
-      iconName: 'logo-stackoverflow',
-      link: 'https://stackoverflow.com/users/7285491/denis-dinkevich'
+      name: 'Facebook',
+      iconName: 'logo-facebook',
+      link: 'https://facebook.com/sourcingdenis/'
     },
     {
       name: 'Twitter',
