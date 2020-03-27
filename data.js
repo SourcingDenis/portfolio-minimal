@@ -1,7 +1,7 @@
 const main = {
   name: 'Denys Dinkevych',
   mail: 'dinkevich.hr@gmail.com',
-  img: 'https://github.com/SourcingDenis/portfolio-minimal/blob/master/%D0%B4%D0%B5%D0%BD%D1%8F%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.jpg',
+  img: 'https://drive.google.com/file/d/1StUMNhVmMhL3ca3AMB1SrJsz051r5Q9k/view?usp=sharing',
   role: ['Sourcing Alchemist 🕵 OSINT Enthusiast'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
